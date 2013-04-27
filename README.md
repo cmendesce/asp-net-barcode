@@ -1,4 +1,4 @@
-asp-net-barcode
+ASP.NET Barcode
 ===============
 
-Controle para gerar código de barra para aplicações asp.net web forms
+Barcode control for ASP.NET Web Forms applications
